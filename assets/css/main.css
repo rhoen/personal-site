@@ -3426,16 +3426,26 @@
 
 /*icons*/
 .image-icon-rails img {
-	width:59%;
-	margin:-33%;
+	width:55%;
+	margin:-29%;
 	transform:rotate(-45deg);
 }
 .image-icon-js img {
-	width: 70%;
-  margin: -38%;
+	width: 63%;
+  margin: -34%;
   transform: rotate(-45deg);
   margin-left: -28%;
   margin-top: -38%;
+}
+.image-icon-html img {
+	width: 76%;
+	margin: -34%;
+	transform: rotate(-45deg);
+}
+.image-icon-sprite img {
+	width: 62%;
+	margin: -26%;
+	transform: rotate(-45deg);
 }
 .sprite {
   background: url('images/spritesheet.png') no-repeat top left;
