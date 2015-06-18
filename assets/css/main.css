@@ -3423,3 +3423,45 @@
 			}
 
 	}
+
+/*icons*/
+.image-icon-rails img {
+	width:59%;
+	margin:-33%;
+	transform:rotate(-45deg);
+}
+.image-icon-js img {
+	width: 70%;
+  margin: -38%;
+  transform: rotate(-45deg);
+  margin-left: -28%;
+  margin-top: -38%;
+}
+.sprite {
+  background: url('images/spritesheet.png') no-repeat top left;
+  float: left;
+  padding: 5px;
+  position: relative;
+  margin-bottom: 50px;
+}
+.sprite.github { background-position: 0 0; }
+.sprite.linkedin-icon { background-position: 0 -138px; }
+.sprite.email { background-position: 0 -276px; }
+.sprite.ruby-icon { background-position: 0 -414px; }
+.sprite.rails { background-position: 0 -552px; }
+.sprite.javascript-icon { background-position: 0 -690px; }
+.sprite.backbone { background-position: 0 -828px; }
+.sprite.jquery { background-position: 0 -966px; }
+.sprite.css3 { background-position: 0 -1104px; }
+.sprite.html5 { background-position: 0 -1242px; }
+
+.nudge {
+  width: 128px;
+  height: 128px;
+	transform:rotate(-45deg);
+}
+
+.sprite-icon {
+  float: left;
+  padding: 5px;
+}
