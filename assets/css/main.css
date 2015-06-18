@@ -2330,6 +2330,10 @@
 			.image.fit img {
 				width: 100%;
 			}
+			.image.fit.my-face {
+				width: 50%;
+				margin:auto;
+			}
 
 /* List */
 
